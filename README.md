@@ -26,7 +26,7 @@ I have merged all datasets from 2019, 2020 and 2021 and created a new dataset wi
 
 I've developed an interesting to answer these questions. You can play with it here:
 
-:bar_chart: [Tableau Dashboard](https://public.tableau.com/app/profile/paulo.mota3585/viz/TransPeopleonStackOverflowSurvey/Dashboard1?publish=yes)
+:bar_chart: [Tableau Dashboard](https://public.tableau.com/app/profile/paulo.mota3585/viz/TransPeopleonStackOverflowSurvey/trans_dash)
 
 ## 🚀 Technologies have used 
 
