@@ -1,3 +1,8 @@
+## Data 
+
+Datasets are too heavy to upload on github.I created a [folder](https://drive.google.com/drive/folders/1KBoXwBufU_VywPt3oCleIUU0vH_BYOso?usp=sharing) on Google Drive to store them.
+
+
 ## Trans people analysis using stack overflow survey dataset
 
 A data-driven culture translates data into actions in the world. For data, I have chosen the dataset from stack overflow survey as provider. Also I am using the trans community as my persona.
