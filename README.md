@@ -30,3 +30,5 @@ I've developed an interesting to answer these questions. You can play with it he
 
 <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width = "150">
 <img src ="https://images.squarespace-cdn.com/content/v1/587670ef03596ec731de6e3d/1486276069386-ENNKG7EAXQBUZHPMEY37/Tableau+Logo.png" width = "150">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width = "150">
+<img src ="https://user-images.githubusercontent.com/67586773/105041254-c3164200-5a88-11eb-81af-08efce8b4c99.png" width = "150">
