@@ -22,6 +22,6 @@ I have merged all datasets from 2019, 2020 and 2021 and created a new dataset wi
 - yearData (2019,2020 or 2021)
 - mainBranch (Current situation with programming skills)
 
-I've developed a interesting to answer these questions. You can play with it here:
+I've developed an interesting to answer these questions. You can play with it here:
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/paulo.mota3585/viz/TransPeopleonStackOverflowSurvey/Dashboard1?publish=yes)
