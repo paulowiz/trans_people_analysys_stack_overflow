@@ -25,3 +25,8 @@ I have merged all datasets from 2019, 2020 and 2021 and created a new dataset wi
 I've developed an interesting to answer these questions. You can play with it here:
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/paulo.mota3585/viz/TransPeopleonStackOverflowSurvey/Dashboard1?publish=yes)
+
+## 🚀 Technologies have used 
+
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width = "100">
+<img src ="https://images.squarespace-cdn.com/content/v1/587670ef03596ec731de6e3d/1486276069386-ENNKG7EAXQBUZHPMEY37/Tableau+Logo.png" width = "100">
