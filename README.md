@@ -1,7 +1,9 @@
 ## :dvd: Data 
 
 Datasets are too heavy to upload on github.I created a [folder](https://drive.google.com/drive/folders/1KBoXwBufU_VywPt3oCleIUU0vH_BYOso?usp=sharing) on Google Drive to store them.
+## :pushpin: Blog Post 
 
+[Public Post](https://dev.to/phmota/trans-people-analysis-using-stack-overflow-survey-dataset-59jf)
 
 ## 📚 Trans people analysis using stack overflow survey dataset
 
