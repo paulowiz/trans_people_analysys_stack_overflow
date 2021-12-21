@@ -1,9 +1,11 @@
-## Data 
+## :dvd: Data 
 
 Datasets are too heavy to upload on github.I created a [folder](https://drive.google.com/drive/folders/1KBoXwBufU_VywPt3oCleIUU0vH_BYOso?usp=sharing) on Google Drive to store them.
+## :pushpin: Blog Post 
 
+[Public Post](https://dev.to/phmota/trans-people-analysis-using-stack-overflow-survey-dataset-59jf)
 
-## Trans people analysis using stack overflow survey dataset
+## 📚 Trans people analysis using stack overflow survey dataset
 
 A data-driven culture translates data into actions in the world. For data, I have chosen the dataset from stack overflow survey as provider. Also I am using the trans community as my persona.
 
@@ -22,6 +24,13 @@ I have merged all datasets from 2019, 2020 and 2021 and created a new dataset wi
 - yearData (2019,2020 or 2021)
 - mainBranch (Current situation with programming skills)
 
-I've developed a interesting to answer these questions. You can play with it here:
+I've developed an interesting to answer these questions. You can play with it here:
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/paulo.mota3585/viz/TransPeopleonStackOverflowSurvey/Dashboard1?publish=yes)
+:bar_chart: [Tableau Dashboard](https://public.tableau.com/app/profile/paulo.mota3585/viz/TransPeopleonStackOverflowSurvey/trans_dash)
+
+## 🚀 Technologies have used 
+
+<img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" width = "150">
+<img src ="https://images.squarespace-cdn.com/content/v1/587670ef03596ec731de6e3d/1486276069386-ENNKG7EAXQBUZHPMEY37/Tableau+Logo.png" width = "150">
+<img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" width = "150">
+<img src ="https://user-images.githubusercontent.com/67586773/105041254-c3164200-5a88-11eb-81af-08efce8b4c99.png" width = "150">
